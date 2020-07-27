@@ -55,13 +55,13 @@ id = "UA-00000000-0"
 [languages]
 [languages.en]
 title = "Data-O"
-description = "A Docsy example site"
+description = "Data-O site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.ch]
 title = "Data-O"
-description = "Docsy er operativsystem for skyen"
+description = "Data-O 主页"
 languageName ="Chinese"
 contentDir = "content/ch"
 time_format_default = "02.01.2006"
