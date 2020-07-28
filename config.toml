@@ -152,11 +152,11 @@ enable = false
 	url = "https://groups.google.com/d/forum/data-o-user"
 	icon = "fa fa-envelope"
         desc = "Discussion and help from your fellow users"
-[[params.links.user]]
-	name ="Sina"
-	url = "https://example.org/twitter"
-	icon = "fab fa-weibo"
-        desc = "Follow us on Twitter to get the latest news!"
+#[[params.links.user]]
+#	name ="Sina"
+#	url = "https://example.org/twitter"
+#	icon = "fab fa-weibo"
+#        desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
 	name = "Stack Overflow"
 	url = "https://stackoverflow.com/questions/tagged/data-o"
@@ -168,11 +168,11 @@ enable = false
 	url = "https://github.com/data-o"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
-[[params.links.developer]]
-	name = "Slack"
-	url = "https://example.org/slack"
-	icon = "fab fa-slack"
-        desc = "Chat with other project developers"
+#[[params.links.developer]]
+#	name = "Slack"
+#	url = "https://example.org/slack"
+#	icon = "fab fa-slack"
+#      desc = "Chat with other project developers"
 [[params.links.developer]]
 	name = "Developer mailing list"
 	url = "https://groups.google.com/d/forum/data-o-dev"
