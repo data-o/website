@@ -93,16 +93,16 @@ archived_version = false
 # The version number for the version of the docs represented in this doc set.
 # Used in the "version-banner" partial to display a version number for the 
 # current doc set.
-version = "0.0"
+version = "0.1"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
 url_latest_version = "https://data-o.org"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/data-o"
+github_repo = "https://github.com/data-o/website"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/data-o"
+github_project_repo = "https://github.com/data-o/website"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -152,11 +152,11 @@ enable = false
 	url = "https://groups.google.com/d/forum/data-o-user"
 	icon = "fa fa-envelope"
         desc = "Discussion and help from your fellow users"
-[[params.links.user]]
-	name ="Sina"
-	url = "https://example.org/twitter"
-	icon = "fab fa-weibo"
-        desc = "Follow us on Twitter to get the latest news!"
+#[[params.links.user]]
+#	name ="Sina"
+#	url = "https://example.org/twitter"
+#	icon = "fab fa-weibo"
+#        desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
 	name = "Stack Overflow"
 	url = "https://stackoverflow.com/questions/tagged/data-o"
@@ -168,11 +168,11 @@ enable = false
 	url = "https://github.com/data-o"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
-[[params.links.developer]]
-	name = "Slack"
-	url = "https://example.org/slack"
-	icon = "fab fa-slack"
-        desc = "Chat with other project developers"
+#[[params.links.developer]]
+#	name = "Slack"
+#	url = "https://example.org/slack"
+#	icon = "fab fa-slack"
+#      desc = "Chat with other project developers"
 [[params.links.developer]]
 	name = "Developer mailing list"
 	url = "https://groups.google.com/d/forum/data-o-dev"
