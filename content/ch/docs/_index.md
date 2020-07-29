@@ -2,6 +2,7 @@
 title: "Data-O 介绍"
 linkTitle: "帮助文档"
 weight: 20
+date: 2020-07-29
 menu:
   main:
     weight: 20
@@ -34,7 +35,4 @@ Optimize Performance, 让存储性能不再是机器学习的瓶颈；
 Orchestration，Data Orchestration，让训练数据高效利用；
 
 Ops，Data-Ops for AI，让数据流程自动化，全球性混合云资源可安全调度利用。
-
-
-
 
